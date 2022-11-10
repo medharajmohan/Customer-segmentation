@@ -1,6 +1,8 @@
 # Customer-segmentation
 Analyze customer purchase and product sales history, to group products and customers into groups that behave similarly.
 
+Data has been taken from kaggle: https://www.kaggle.com/code/fabiendaniel/customer-segmentation/data
+
 Motivation and Signifiance of the project:
 
 • Online shopping has become increasingly popular and is the most comfortable way to get access to any product from anywhere.
